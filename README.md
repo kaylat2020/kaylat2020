@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<!--google fonts only-->
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Maru+Gothic&size=24&duration=3000&pause=2000&color=D084FFFF&center=true&width=435&lines=hey+there%2C+I'm+kayla;I+code+and+draw+stuff;%E3%80%8C%E3%82%B1%E3%83%BC%E3%83%A9%E3%80%8D%E3%82%82%E3%81%84%E3%81%84;%E3%82%82%E3%81%A3%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%AA%E3%81%8D%E3%82%83%F0%9F%98%BF" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Maru+Gothic&size=24&duration=3000&pause=2000&color=C687F0&center=true&width=435&lines=hey+there%2C+I'm+kayla;I+code+and+draw+stuff;%E3%80%8C%E3%82%B1%E3%83%BC%E3%83%A9%E3%80%8D%E3%82%82%E3%81%84%E3%81%84;%E3%82%82%E3%81%A3%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%AA%E3%81%8D%E3%82%83%F0%9F%98%BF" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">✨ Kayla Tucker ✨</h1>
