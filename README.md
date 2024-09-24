@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <h1 align="center">✨ Kayla Tucker ✨</h1>
 <br><br>
 <p align="center">
-	🎓 B.S. Computer Science @ UTD 24'
+	💼 M.S. Software Engineering Student
+	<br><br>
+	🎓 B.S. Computer Science @ UT Dallas 24'
 	<br><br>
 	👩‍💻 Full-Stack dev
 	<br><br>
