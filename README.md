@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">✨ Kayla Tucker ✨</h1>
-<br><br>
+<br>
 <p align="center">
-	🌇 Dallas-Forth Worth metroplex, USA 🇺🇸
+	🌇 Dallas-Forth Worth metroplex, Texas, USA 🇺🇸
 	<br><br>
-	💼 M.S. Software Engineering Student
+	💼 M.S. Software Engineering student
 	<br><br>
 	🎓 B.S. Computer Science @ UT Dallas 24'
 	<br><br>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 	<br><br>
 	🖌️ Artist • Gamer 🎮
 	<br><br>
-	📖 ENG (Native) • JPN (Limited, JLPT N4)
+	📖 <b>ENG</b> (Native) • <b>JPN</b> (Limited, JLPT N4)
 </p>
 <br><br>
 
