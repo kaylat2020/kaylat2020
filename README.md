@@ -75,18 +75,18 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h2 align="center">👾 Projects 👾</h2>
-<br>
-<p align="center">
-	<em>**under construction, check back later</em>
-</p>
-<br>
-
 <h2 align="center">📱 Socials 📱</h2>
 <br>
 <p align="center">
 	<a href="https://www.linkedin.com/in/kayla-a-tucker/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkayla-a-tucker"></a>
 	<a href="https://enka.network/u/cosmicmist/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/🎮%20enka.network-D1E1FF?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkayla-a-tucker"></a>
 	<br><br>
+</p>
+<br>
+
+<h2 align="center">👾 Projects 👾</h2>
+<br>
+<p align="center">
+	<em>⬇️ pinned below are some of my favorites, check starred repos for more! ⬇️</em>
 </p>
 <br>
